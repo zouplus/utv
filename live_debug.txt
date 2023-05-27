@@ -1,0 +1,4 @@
+央视直播,#genre#
+CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
+CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
+CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
