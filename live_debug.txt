@@ -1,4 +1,2 @@
 央视直播,#genre#
-CCTV1,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
-CCTV2,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
-CCTV1,就是测试地址
+CCTV1,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
