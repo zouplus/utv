@@ -1,4 +1,3 @@
-//以下内容为互联网收集，只为自用……
 {
   "sites": [
     {"key":"csp_LiteApple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
@@ -379,7 +378,7 @@
   "wallpaper":"https://picsum.photos/1280/720/?blur=10",
   "spider":"https://raw.liucn.cc/box/sub/jar/A235.jar;md5;7C7281A78781BD352DFE9CA3E3293999",
   "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
-    "proxy://do=live&type=txt&ext=aHR0cDovLzl4aTRvLnRrL3N1Yi9teXR2LnR4dA=="
+    "proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvNzkxMTkvWkIudHh0P3NpZ249aUNoRFhEQzdXSlJUcDd5V0F5VmRiWTNzaTVzSjVlRndFZ2FSMzVZUUdTbyUzRCUzQTA="
   ]}]}],
   "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
   "ijk":[
