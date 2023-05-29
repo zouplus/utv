@@ -9,7 +9,7 @@
 		    "group": "redirect",
 		    "channels": [{
 			    "name": "live",
-			    "urls": ["proxy://do=live&type=txt&ext=https://gitee.com/tvboxpro/tv/raw/master/2.txt"]
+			    "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL3pvdXBsdXMvdXR2L21haW4vbGl2ZV9kZWJ1Zy50eHQ="]
 		    }]
 	    }],
 
